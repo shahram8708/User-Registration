@@ -1,0 +1,25 @@
+# Flask User Authentication System
+
+This is a user authentication system built with Flask, providing user registration, login, logout, and profile features.
+
+## Features
+
+- User registration with username, email, and password
+- Password hashing for security
+- User login with email and password
+- User logout
+- User profile page displaying username and email
+- Flash messages for success and error notifications
+- CSRF protection
+- Responsive design using Bootstrap
+
+## Technologies Used
+
+- **Flask**: A micro web framework for Python.
+- **Flask-Bcrypt**: A Flask extension for hashing passwords.
+- **Flask-Login**: A Flask extension for managing user sessions.
+- **Flask-SQLAlchemy**: A Flask extension for SQL database integration.
+- **Flask-WTF**: A Flask extension for handling web forms.
+- **Bootstrap**: A front-end framework for developing responsive websites.
+- **SQLite**: A lightweight SQL database engine.
+
