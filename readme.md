@@ -23,3 +23,4 @@ This is a user authentication system built with Flask, providing user registrati
 - **Bootstrap**: A front-end framework for developing responsive websites.
 - **SQLite**: A lightweight SQL database engine.
 
+
